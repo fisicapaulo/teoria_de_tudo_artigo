@@ -1,5 +1,11 @@
 # Teoria de Tudo — Artigo
 
+[![CI](https://github.com/fisicapaulo/teoria_de_tudo_artigo/actions/workflows/ci.yml/badge.svg)](https://github.com/fisicapaulo/teoria_de_tudo_artigo/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB.svg?logo=python&logoColor=white)](#pré-requisitos)
+[![Tests: pytest](https://img.shields.io/badge/tests-pytest-0A9EDC.svg)](#testes)
+[![Reprodutibilidade](https://img.shields.io/badge/reprodutibilidade-forte-success)](#reprodutibilidade)
+
 Repositório de reprodução e auditoria do artigo:
 - Fechamento de \[α^{-1}\] por ICC0 + ICC1
 - Certificação espectral de \[m_H\] via fator geométrico-universal
@@ -96,4 +102,3 @@ MIT — veja o arquivo LICENSE.
 
 ## Contato
 Abra uma issue neste repositório ou entre em contato via página do autor.
-to via página do autor.
