@@ -1,0 +1,11 @@
+{
+  "table_id": "exemplo_mH",
+  "columns": [
+    "gamma",
+    "v_fisico_GeV",
+    "M_star",
+    "m_H_GeV",
+    "run_id"
+  ],
+  "rows": []
+}
