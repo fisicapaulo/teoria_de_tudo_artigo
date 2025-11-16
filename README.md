@@ -85,13 +85,13 @@ Este repositório segue um protocolo de reprodutibilidade forte: manifests imut�
 
 ## Como citar
 Se usar estes resultados, cite:
-- Autor. “Teoria de Tudo — Artigo.” Repositório GitHub, 2025.
+- Vieira, Paulo. “Teoria de Tudo Aritmética - Unificação por Curvatura Espectral-Arakeloviana” Repositório GitHub, 2025.
 
 BibTeX:
 ```
-@misc{teoriadetudo2025,
-  title        = {Teoria de Tudo — Artigo},
-  author       = {Paulo Sobrenome},
+@misc{Vieira_2025,
+  title        = {Teoria de Tudo Aritmética — Artigo},
+  author       = {Paulo Vieira},
   year         = {2025},
   howpublished = {\url{https://github.com/fisicapaulo/teoria_de_tudo_artigo}}
 }
